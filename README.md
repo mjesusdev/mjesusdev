@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 -->
 
 ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
+
+Spotify Now Playing!
+[![Spotify](https://spotify-playing-now-three.vercel.app/)](https://open.spotify.com/user/jesusminecrafter)
