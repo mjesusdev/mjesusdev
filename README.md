@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Stats of my Github 🚀
 ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
 
-Spotify Now Playing!
+### The music that playing now 💡
 [![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
