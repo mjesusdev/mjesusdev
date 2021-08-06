@@ -1,6 +1,9 @@
-### Hi there, I'm Jesus👋
+### Hi there 👋
 
-You can find me 🌍:
+My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) 🧡 and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
+Actually I'm learning about new Technologies, Practise and more.. 👨‍💻💪
+
+You can find me in 🌍:
 
 - [Twitter](https://twitter.com/mjesusoj)
 - [Instagram](https://instagram.com/jesusojeda00)
