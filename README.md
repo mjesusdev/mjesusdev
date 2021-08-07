@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ### Stats of my Github 🚀
 ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
 
-### The music that I'm listening now 💡
+### The music that I'm listening now in Spotify 🎵💡
 [![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
