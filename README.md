@@ -8,7 +8,7 @@ You can find me in 🌍:
 - [Twitter](https://twitter.com/mjesusoj)
 - [Linkedin](https://linkedin.com/in/mjesusoj)
 
-If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by
+If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 🤗💡
 
 <!--
 **mjesusoj/mjesusoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
