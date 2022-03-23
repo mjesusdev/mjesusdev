@@ -5,8 +5,8 @@ Actually I'm learning about new Technologies (Vue 💚🚀), Practise and more..
 
 You can find me on 🌍:
 
-- 💫[Twitter](https://twitter.com/mjesusoj)
-- 💫[Linkedin](https://linkedin.com/in/mjesusoj)
+💫 [Twitter](https://twitter.com/mjesusoj)
+💫 [LinkedIN](https://linkedin.com/in/mjesusoj)
 
 🔭 I’m currently working on my first page made with React JS 💙 and more! 🦄
 
