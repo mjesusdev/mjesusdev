@@ -3,14 +3,14 @@
 My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) 🧡 and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
 Actually I'm learning about new Technologies (Vue 💚🚀), Practise and more... 👨‍💻💪
 
+🔭 I’m currently working on my first page made with React JS 💙 and more! 🦄
+
+If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 🤗💡
+
 You can find me on 🌍:
 
 - 💫 [Twitter](https://twitter.com/mjesusoj)
 - 💫 [Linkedin](https://linkedin.com/in/mjesusoj)
-
-🔭 I’m currently working on my first page made with React JS 💙 and more! 🦄
-
-If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 🤗💡
 
 <!--
 **mjesusoj/mjesusoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
