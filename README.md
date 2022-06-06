@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) 🧡 and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
-Actually I'm learning about new Technologies (Vue 💚🚀), Practise and more... 👨‍💻💪
 
-🔭 I’m currently working on my first page made with React JS 💙 and more! 🦄
+- 🔭 I’m currently working with some projects, my portfolio made with Vue 3 💚 and React projects
+- 🌱 I’m currently learning Tailwind CSS 💙 and more! 🦄
+- ⚡ If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 
+- ✨ Also I'm on some discord channels to learn more about technology, discuss with the community
 
-If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 🤗💡
+## You can find me on 🌍
 
-You can find me on 🌍:
+- ✨ [Twitter](https://twitter.com/mjesusoj)
+- ✨ [Linkedin](https://linkedin.com/in/mjesusoj)
 
-- 💫 [Twitter](https://twitter.com/mjesusoj)
-- 💫 [Linkedin](https://linkedin.com/in/mjesusoj)
+### Discord Channels
+
+Here, I put some discords channel where you can find me to learn more about technology, discuss with the community and also share your knowledge 📚
+
+- ✨ [PintaAPIs Developers](https://discord.gg/pQX3RhTf55) 
+(Community of @carlosazaustre)
 
 <!--
 **mjesusoj/mjesusoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
