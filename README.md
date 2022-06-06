@@ -14,10 +14,10 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 
 ### Discord Channels
 
-Here, I put some discords channel where you can find me to learn more about technology, discuss with the community and also share your knowledge 📚
+Here, I put some discords channel where you can a lot of content to learn more about technology, discuss with the community and also share your knowledge 📚
 
 - ✨ [PintaAPIs Developers](https://discord.gg/pQX3RhTf55) 
-(Community of @carlosazaustre)
+(Community of [@carlosazaustre](https://github.com/carlosazaustre))
 
 <!--
 **mjesusoj/mjesusoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
