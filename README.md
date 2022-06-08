@@ -18,6 +18,9 @@ Here, I put some discords channel where you can a lot of content to learn more a
 
 - ✨ [PintaAPIs Developers](https://discord.gg/pQX3RhTf55) 
 (Community of [@carlosazaustre](https://github.com/carlosazaustre))
+- ✨ [Midudev - Community of Developers | JavaScript FullStack and FrontEnd](https://discord.gg/midudev)
+
+<!-- Put some hobbies EX: Cibersecurity, Privacy,etc -->
 
 <!--
 **mjesusoj/mjesusoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
