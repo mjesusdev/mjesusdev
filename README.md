@@ -9,10 +9,10 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 
 ## You can find me on 🌍
 
-- ✨ [Twitter](https://twitter.com/mjesusoj)
-- ✨ [Linkedin](https://linkedin.com/in/mjesusoj)
+- ✨ [My Twitter](https://twitter.com/mjesusoj)
+- ✨ [My profile on LinkedIn](https://linkedin.com/in/mjesusoj)
 
-### Discord Channels
+### Discord Channels ✨
 
 Here, I put some discords channel where you can a lot of content to learn more about technology, discuss with the community and also share your knowledge 📚
 
@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 ### Stats of my Github 🚀
 ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
 
-### The music that I'm listening now on Spotify 🚀
+### The music that I'm listening now on Spotify 💖
 [![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
