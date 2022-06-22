@@ -3,9 +3,10 @@
 My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) 🧡 and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
 
 - 🔭 I’m currently working with some projects, my portfolio made with Vue 3 💚 and React projects
-- 🌱 I’m currently learning Tailwind CSS 💙 and more! 🦄
+- 🌱 I’m currently learning Bootstrap 5, Tailwind CSS 💙 and more! 🦄
 - ⚡ If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 
 - ✨ Also I'm on some discord channels to learn more about technology, discuss with the community
+- 💖 In my free time I learn about Cibersecurity, Privacy with news on Internet, just like videos and read books 🖖
 
 ## You can find me on 🌍
 
@@ -20,6 +21,12 @@ Here, I put some discords channel where you can a lot of content to learn more a
 (Community of [@carlosazaustre](https://github.com/carlosazaustre))
 - ✨ [Midudev - Community of Developers | JavaScript FullStack and FrontEnd](https://discord.gg/midudev)
 - ✨ [Moure Dev - Programming and Apps Developer](https://discord.gg/7xUpEzUpvN)
+
+### Stats of my Github 🚀
+![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
+
+### The music that I'm listening now on Spotify 💖
+[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
 
 <!-- Put some hobbies EX: Cibersecurity, Privacy, etc and more channels -->
 
@@ -37,9 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Stats of my Github 🚀
-![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
-
-### The music that I'm listening now on Spotify 💖
-[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
