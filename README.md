@@ -22,6 +22,10 @@ Here, I put some discords channel where you can a lot of content to learn more a
 - ✨ [Midudev - Community of Developers | JavaScript FullStack and FrontEnd](https://discord.gg/midudev)
 - ✨ [Moure Dev - Programming and Apps Developer](https://discord.gg/7xUpEzUpvN)
 
+#### Other Channels
+- ✨ [Acadeller - Tutoriales y mucho más](https://discord.gg/mfAnFR56Sa)
+- ✨ [Bluuweb - Tutoriales, Recursos y mucho más](https://discord.gg/rHXP5jhfrb)
+
 ### Stats of my Github 🚀
 ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
 
