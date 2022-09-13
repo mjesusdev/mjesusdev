@@ -26,8 +26,11 @@ Here, I put some discords channel where you can a lot of content to learn more a
 - ✨ [Acadeller - Tutoriales y mucho más](https://discord.gg/mfAnFR56Sa)
 - ✨ [Bluuweb - Tutoriales, Recursos y mucho más](https://discord.gg/rHXP5jhfrb)
 
-### Stats of my Github 🚀
-![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true)
+### Check some of my stats 🚀
+
+| *GitHub Stats* | *Programming Languages* |
+---|--- 
+| ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=dracula&hide_border=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjesusoj&theme=dracula&hide_border=true&layout=compact&langs_count=6)](https://github.com/mjesusoj/github-readme-stats) |
 
 ### The music that I'm listening now on Spotify 💖
 [![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
