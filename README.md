@@ -17,7 +17,7 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 
 Here, I put some discords channel where you can a lot of content to learn more about technology, discuss with the community and also share your knowledge 📚
 
-- ✨ [PintaAPIs Developers](https://discord.gg/pQX3RhTf55) 
+- ✨ [PintaAPIs Developers](https://discord.gg/carlosazaustre) 
 (Community of [@carlosazaustre](https://github.com/carlosazaustre))
 - ✨ [Midudev - Community of Developers | JavaScript FullStack and FrontEnd](https://discord.gg/midudev)
 - ✨ [Moure Dev - Programming and Apps Developer](https://discord.gg/7xUpEzUpvN)
