@@ -11,7 +11,7 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 ## You can find me on 🌍
 
 - ✨ [My Twitter](https://twitter.com/mjesusoj)
-- ✨ [My profile on LinkedIn](https://linkedin.com/in/mjesusoj)
+- ✨ [My LinkedIn Profile](https://linkedin.com/in/mjesusoj)
 
 ### Discord Channels ✨
 
