@@ -6,10 +6,9 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 - 🌱 I’m currently learning Bootstrap 5, Tailwind CSS 💙 and more! 🦄
 - ⚡ If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 
 - ✨ Also I'm on some discord channels to learn more about technology, discuss with the community
-- 💖 In my free time I learn about Cibersecurity, Privacy with news on Internet, just like videos and read books 🖖
+- 💖 In my free time I learn about Cibersecurity 🔐 and Privacy 🕵️ with news on Internet, just like videos and read books 🖖
 
 ## You can find me on 🌍
-
 - ✨ [My Twitter](https://twitter.com/mjesusoj)
 - ✨ [My LinkedIn Profile](https://linkedin.com/in/mjesusoj)
 
@@ -23,8 +22,12 @@ Here, I put some discords channel where you can a lot of content to learn more a
 - ✨ [Moure Dev - Programming and Apps Developer](https://discord.gg/7xUpEzUpvN)
 
 #### Other Channels
-- ✨ [Acadeller - Tutoriales y mucho más](https://discord.gg/mfAnFR56Sa)
-- ✨ [Bluuweb - Tutoriales, Recursos y mucho más](https://discord.gg/rHXP5jhfrb)
+- ✨ [Acadeller - Tutorials and more](https://discord.gg/mfAnFR56Sa)
+- ✨ [Bluuweb - Tutorials, Resources and more](https://discord.gg/rHXP5jhfrb)
+
+### Projects Contributions 🌟
+
+- 🚀 [Page that includes content creators 🌟 | FrontEnd, BackEnd, Cybersecurity, etc 🎉](https://github.com/mjesusoj/content-creators)
 
 ### Check some of my stats 🚀
 
