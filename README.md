@@ -9,8 +9,9 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 - 💖 In my free time I learn about Cibersecurity 🔐 and Privacy 🕵️ with news on Internet, just like videos and read books 🖖
 
 ## You can find me on 🌍
-- ✨ [My Twitter](https://twitter.com/mjesusoj)
-- ✨ [My LinkedIn Profile](https://linkedin.com/in/mjesusoj)
+- 🔐 [Mastodon - Decentralized Social Network 🕵️‍♂️](https://mastodon.cloud/@mjesusoj)
+- ✨ [My Profile on Twitter 🐦](https://twitter.com/mjesusoj)
+- 👨‍💻 [My Professional Profile on LinkedIn 👨‍💻](https://linkedin.com/in/mjesusoj)
 
 ### Discord Channels ✨
 
