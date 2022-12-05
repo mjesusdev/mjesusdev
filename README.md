@@ -36,8 +36,8 @@ Here, I put some discords channel where you can a lot of content to learn more a
 ---|--- 
 | ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=react&hide_border=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjesusoj&theme=react&hide_border=true&layout=compact&langs_count=6)](https://github.com/mjesusoj/github-readme-stats) |
 
-### The music that I'm listening now on Spotify 💖
-[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter)
+<!-- ### The music that I'm listening now on Spotify 💖
+[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter) -->
 
 <!-- Put some hobbies EX: Cibersecurity, Privacy, etc and more channels -->
 
