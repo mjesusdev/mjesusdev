@@ -10,7 +10,7 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 
 ## You can find me on 🌍
 - 🔐 [Mastodon - Decentralized Social Network 🕵️‍♂️](https://mastodon.cloud/@mjesusoj)
-- ✨ [My Profile on Twitter 🐦](https://twitter.com/mjesusoj)
+- ✨ [My Profile on Twitter 🐦](https://twitter.com/craftianprivacy)
 - 👨‍💻 [My Professional Profile on LinkedIn 👨‍💻](https://linkedin.com/in/mjesusoj)
 
 ### Discord Channels ✨
