@@ -6,11 +6,10 @@ My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) �
 - 🌱 I’m currently learning Bootstrap 5, Tailwind CSS 💙 and more! 🦄
 - ⚡ If you interesting tips of programming (JS, React and more), follow my Twitter and some followed by 
 - ✨ Also I'm on some discord channels to learn more about technology, discuss with the community
-- 💖 In my free time I learn about Cibersecurity 🔐 and Privacy 🕵️ with news on Internet, just like videos and read books 🖖
+- 💖 In my free time I learn about Cybersecurity 🔐 and Privacy 🕵️ with news on Internet, just like videos and read books 🖖
 
 ## You can find me on 🌍
 - 🔐 [Mastodon - Decentralized Social Network 🕵️‍♂️](https://mastodon.cloud/@mjesusoj)
-- ✨ [My Profile on Twitter 🐦](https://twitter.com/craftianprivacy)
 - 👨‍💻 [My Professional Profile on LinkedIn 👨‍💻](https://linkedin.com/in/mjesusoj)
 
 ### Discord Channels ✨
@@ -37,7 +36,7 @@ Here, I put some discords channel where you can a lot of content to learn more a
 | ![Manuel Jesús Ojeda's github stats](https://github-readme-stats.vercel.app/api?username=mjesusoj&show_icons=true&theme=react&hide_border=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjesusoj&theme=react&hide_border=true&layout=compact&langs_count=6)](https://github.com/mjesusoj/github-readme-stats) |
 
 <!-- ### The music that I'm listening now on Spotify 💖
-[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/jesusminecrafter) -->
+[![Spotify](https://spotify-playing-now-nine.vercel.app/api/spotify)](https://open.spotify.com/user/usuario) -->
 
 <!-- Put some hobbies EX: Cibersecurity, Privacy, etc and more channels -->
 
