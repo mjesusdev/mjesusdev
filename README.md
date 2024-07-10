@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Manuel Jesus, I'm from Spain, specifically from Seville (in South) 🧡 and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
+My name is Manuel Jesus, I'm from Spain and I'm Web Developer 👨‍💻 in constant learning Technology and Working 💪
 
 - 🔭 I’m currently working with some projects, my portfolio made with Vue 3 💚 and React projects
 - 🌱 I’m currently learning Bootstrap 5, Tailwind CSS 💙 and more! 🦄
