@@ -10,7 +10,7 @@ My name is Manuel Jesus, I'm from Spain and I'm Web Developer 👨‍💻 in con
 
 ## You can find me on 🌍
 - 🔐 [Mastodon - Decentralized Social Network 🕵️‍♂️](https://mastodon.cloud/@mjesusoj)
-- 👨‍💻 [My Professional Profile on LinkedIn 👨‍💻](https://linkedin.com/in/mjesusoj)
+- 👨‍💻 [My Professional Profile on LinkedIn 👨‍💻](https://linkedin.com/in/mjesusdev)
 
 ### Discord Channels ✨
 
